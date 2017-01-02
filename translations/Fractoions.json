@@ -1,0 +1,22 @@
+[
+    {
+        "code": "Blau",
+        "name": "Macht",
+        "is_primary": true
+    },
+    {
+        "code": "Grau",
+        "name": "Sonstiges",
+        "is_primary": false
+    },
+    {
+        "code": "Rot",
+        "name": "Kommando",
+        "is_primary": true
+    },
+    {
+        "code": "Gelb",
+        "name": "Gauner",
+        "is_primary": true
+    }
+]

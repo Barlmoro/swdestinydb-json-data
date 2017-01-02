@@ -1,0 +1,22 @@
+[
+    {
+        "code": "C",
+        "name": "Häufig"
+    },
+    {
+        "code": "L",
+        "name": "Legnendär"
+    },
+    {
+        "code": "R",
+        "name": "Selten"
+    },
+    {
+        "code": "S",
+        "name": "Feststehend"
+    },
+    {
+        "code": "U",
+        "name": "Ungewönlich"
+    }
+]
